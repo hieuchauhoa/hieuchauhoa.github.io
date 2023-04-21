@@ -62,7 +62,7 @@ search.addEventListener('click', () => {
                         ic.src='icon/day/'+icon+'.png';
                     }
                     else{
-                        ic.src='icon/night'+icon+'.png';
+                        ic.src='icon/night/'+icon+'.png';
                     }
                     
                     break;
